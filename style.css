@@ -1,5 +1,13 @@
-.tic {
-    width:400px;
-    height:400px;
-    margin:0 auto;
-  }
+.tic{
+
+}
+
+.Column{
+width:80px;
+height:80px;
+display: inline-block;
+margin-top: 25px;
+text-align: center;
+font-size: 15px;
+background-color: green
+}
